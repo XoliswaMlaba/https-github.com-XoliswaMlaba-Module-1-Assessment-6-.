@@ -1,0 +1,11 @@
+
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    background-color: aquamarine;
+}
+
+th{
+    font-weight: 800;
+}
